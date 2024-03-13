@@ -8,6 +8,10 @@
   "skills": {
     "hardSkills": [
       {
+        "name": "TypesCript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/typescript.png"
+      },
+      {
         "name": "JavasCript",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
@@ -30,6 +34,10 @@
       {
         "name": "VSCode",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
+      },
+      {
+        "name": "Windows",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/windows.png"
       }
     ],
     "softSkills": [
@@ -48,6 +56,11 @@
   ],
   "portfolio": [
     {
+      "name": "Criando o meu Portfólio utilizando HTML, CSS e JavaScript",
+      "url": "https://github.com/ThiagoSPaixao/js-developer-portfolio.git",
+      "github": true
+    },
+    {
       "name": "Criando um extrator de áudio para Youtube",
       "url": "https://github.com/ThiagoSPaixao/Youtube_Extractor_Python",
       "github": true
@@ -55,6 +68,16 @@
     {
       "name": "Dominando o protocolo HTTP e integrando-se com PokeAPI",
       "url": "https://github.com/ThiagoSPaixao/Pokedex.git",
+      "github": true
+    },
+    {
+      "name": "Criando um Jogo da Velha com IA",
+      "url": "https://github.com/ThiagoSPaixao/Jogo-da-Velha.git",
+      "github": true
+    },
+    {
+      "name": "Elaborando um projeto com a DIO",
+      "url": "https://github.com/ThiagoSPaixao/dio-lab-open-source.git",
       "github": true
     }
   ],
